@@ -1,0 +1,36 @@
+.combine{
+	float:left;
+}
+#wowslider-container1,#wowslider-container2,#wowslider-container3,#wowslider-container4,#wowslider-container5{
+	margin-left: 10px;
+}
+
+.combine{
+	margin-left: 180px;
+	margin-top: 30px;
+	
+}
+
+.combine .bullet{
+	float:left;
+	margin-right: 150px;
+	margin-top: 30px;
+	list-style-type: none;
+}
+.combine  .bullet p{
+	margin-top: 20px;
+	width:320px;
+	padding: 8px;
+	color:#f99b06;
+	font-family: 'Archivo Narrow', sans-serif;
+    text-align: center;
+	font-size: 1.3em;
+	
+}
+
+.combine .bullet .content{
+	font-size: 0.9em;
+	text-decoration: none;
+	color:white;
+	font-family: 'Lato', sans-serif;
+}

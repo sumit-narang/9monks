@@ -1,0 +1,85 @@
+.foot{
+	background-color: #ef6a30;
+	width: 100%;
+	position:absolute;
+	left: 0;
+	margin-top:  1300px;
+	float: left;
+	font-family: 'Lato', sans-serif;
+	font-weight: 500;
+
+}
+
+.foot  .grocery {
+	
+	float:left;
+    
+
+}
+.foot .resume{
+	float: right;
+	margin-right: 25px;
+	margin-top: 60px;
+}
+
+.foot .resume p{
+	font-size:15px; 
+}
+.foot .resume a{
+	color: white;
+	font-size: 16px;
+	text-decoration: none;
+}
+.foot .resume a:hover{
+	color: #2d05f7;
+	text-decoration: underline;
+}
+
+.foot .grocery .heading{
+	text-transform: uppercase;
+	margin-top: 15px;
+	font-size: 20px;
+	font-weight: 600;
+    font-family: "Ek Mukta",sans-serif;
+    
+}
+
+.foot .grocery p{
+	font-size: 17px;
+    font-weight: 590;
+	
+}
+
+.foot .items a:hover{
+	text-decoration: underline;;
+	color: white;
+
+}
+
+
+.foot .grocery  a{
+	
+	text-decoration: none;
+	color:black;
+	
+}
+
+.copyright {
+   position:absolute;
+   margin-top: 1689px;
+   left:0;
+   width:100%;
+   height:60px;   
+   background:black;
+   color:#e9773a;
+   padding:20px 0px;
+
+}
+
+.bottom p{
+	float:right;
+	margin-right: 40px;
+    font-weight: 500;
+    font-size: 1.05em;
+	font-family: "Ek Mukta",sans-serif;
+}

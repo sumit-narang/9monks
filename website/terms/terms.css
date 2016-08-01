@@ -1,0 +1,42 @@
+body{ background-color:white; 
+      color:black;}
+.privacy .h6{
+	font-size: 1em;
+	font-family: 'Lato', sans-serif;
+	color: black;
+	
+	
+}
+
+.privacy .h4{
+	text-decoration: underline;
+	text-transform: uppercase;
+	color: #b5b310;
+	font-size: 1.4em;
+	font-family: 'Lato', sans-serif;
+	font-weight: 600;
+}
+
+.privacy .h5{
+	font-size: 1.2em;
+	left: 0;
+	font: bold;
+	color:#42ba22;
+	font-family: "Ek Mukta",sans-serif;
+	
+}
+.privacy a{
+	color: red;
+	
+	font-size: 1.2em;
+}
+.privacy h2{
+font-family: 'Lato', sans-serif;
+color: #b5b310;
+}
+
+.privacy{
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 100px;
+}

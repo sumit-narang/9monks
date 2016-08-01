@@ -1,0 +1,76 @@
+.drop{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 90000000;
+}
+.image{
+  
+  z-index: 3000000;
+  position: fixed;
+  right: 0;
+  top: 0;
+  height: 61px;
+}
+
+.super {
+  float: left;
+  width: 100%;
+  background:black;
+  padding: 0;
+  margin: 0;
+  height: 61px;
+  position: fixed;
+  left: 0;
+  
+}
+
+.super ul {
+  background: black;
+  list-style:none;
+  padding: 0;
+  margin: 0;
+  height: 61px;
+  left: 0;
+  position: fixed;
+  float: left;
+
+}
+
+
+.drop .super li {
+  
+    text-align: center;
+  display: inline-block;
+  
+}
+
+
+.drop .super li a {
+  color:white;
+  background-color: black;
+  display:block;
+  padding:0px 40px;
+  text-decoration:none;
+  font-size: 1.24em ;
+  font-family: "Ek Mukta",sans-serif;
+  float: left;
+  height: 61px;
+  line-height: 61px;
+
+}
+
+.drop .super li:hover {
+  background-color: #f86605;
+}
+
+
+.drop .super li:hover > a{
+  color:white;
+  background-color: #f86605; 
+}
+
+.drop .super li:hover > ul {
+  display:block;
+}
+

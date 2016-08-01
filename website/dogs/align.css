@@ -1,0 +1,29 @@
+.combine{
+	margin-left: 290px;
+	margin-top: 30px;
+	
+}
+
+.combine .bullet{
+	float:left;
+	margin-right: 150px;
+	margin-top: 30px;
+	list-style-type: none;
+}
+.combine  .bullet p{
+	margin-top: 20px;
+	width:640px;
+	padding: 8px;
+	color:#f99b06;
+	font-family: 'Archivo Narrow', sans-serif;
+    text-align: center;
+	font-size: 1.3em;
+	
+}
+
+.combine .bullet .content{
+	font-size: 0.9em;
+	text-decoration: none;
+	color:white;
+	font-family: 'Lato', sans-serif;
+}
